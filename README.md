@@ -1,2 +1,2 @@
 # -JS101_Learning_Javascript
-I am Write Here Introduction Of JavaSript
+I am writing here JavaSript Code
